@@ -1,0 +1,36 @@
+﻿<div class="weatherHeadline">
+    <div class="date">
+        <p ng-bind="date | date:'longDate'"></p>
+    </div>
+    <div>
+        View By:
+        <select ng-model="property">
+            <option value="cityName">City</option>
+            <option value="high">High</option>
+            <option value="low">Low</option>
+        </select>
+    </div>
+</div>
+<div>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th><strong>High</strong></th>
+                <th><strong>Low</strong></th>
+            </tr>
+        </thead>
+        <tbody ng-repeat="fc in weatherFC | orderBy:property">
+            <tr>
+                <td><a href={{fc['href']}}>{{ fc['name'] }}</a></td>
+                <td><img ng-src="{{ fc['weatherIcon']}}" /></td>
+                <td>{{ fc['text'] }}</td>
+                <td>{{ fc['high'] }}</td>
+                <td>{{ fc['low'] }}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

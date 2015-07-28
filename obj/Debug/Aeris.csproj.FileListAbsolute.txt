@@ -1,0 +1,24 @@
+H:\My Documents\AngularJS\Assignment\Aeris\Aeris\bin\Aeris.dll.config
+H:\My Documents\AngularJS\Assignment\Aeris\Aeris\bin\Aeris.dll
+H:\My Documents\AngularJS\Assignment\Aeris\Aeris\bin\Aeris.pdb
+H:\My Documents\AngularJS\Assignment\Aeris\Aeris\obj\Debug\Aeris.csprojResolveAssemblyReference.cache
+H:\My Documents\AngularJS\Assignment\Aeris\Aeris\obj\Debug\Aeris.dll
+H:\My Documents\AngularJS\Assignment\Aeris\Aeris\obj\Debug\Aeris.pdb
+C:\Users\Anabell\Documents\SSDP\AngularJS\Aeris\Aeris\bin\Aeris.dll.config
+C:\Users\Anabell\Documents\SSDP\AngularJS\Aeris\Aeris\bin\Aeris.dll
+C:\Users\Anabell\Documents\SSDP\AngularJS\Aeris\Aeris\bin\Aeris.pdb
+C:\Users\Anabell\Documents\SSDP\AngularJS\Aeris\Aeris\obj\Debug\Aeris.csprojResolveAssemblyReference.cache
+C:\Users\Anabell\Documents\SSDP\AngularJS\Aeris\Aeris\obj\Debug\Aeris.dll
+C:\Users\Anabell\Documents\SSDP\AngularJS\Aeris\Aeris\obj\Debug\Aeris.pdb
+C:\Users\Anabell\Documents\SSDP\AngularJS\school\Aeris\Aeris\bin\Aeris.dll.config
+C:\Users\Anabell\Documents\SSDP\AngularJS\school\Aeris\Aeris\bin\Aeris.dll
+C:\Users\Anabell\Documents\SSDP\AngularJS\school\Aeris\Aeris\bin\Aeris.pdb
+C:\Users\Anabell\Documents\SSDP\AngularJS\school\Aeris\Aeris\obj\Debug\Aeris.csprojResolveAssemblyReference.cache
+C:\Users\Anabell\Documents\SSDP\AngularJS\school\Aeris\Aeris\obj\Debug\Aeris.dll
+C:\Users\Anabell\Documents\SSDP\AngularJS\school\Aeris\Aeris\obj\Debug\Aeris.pdb
+C:\Users\Anabell\Documents\Arvyx\aeris.anabellchan.com\wwwroot\bin\Aeris.dll.config
+C:\Users\Anabell\Documents\Arvyx\aeris.anabellchan.com\wwwroot\bin\Aeris.dll
+C:\Users\Anabell\Documents\Arvyx\aeris.anabellchan.com\wwwroot\bin\Aeris.pdb
+C:\Users\Anabell\Documents\Arvyx\aeris.anabellchan.com\wwwroot\obj\Debug\Aeris.csprojResolveAssemblyReference.cache
+C:\Users\Anabell\Documents\Arvyx\aeris.anabellchan.com\wwwroot\obj\Debug\Aeris.dll
+C:\Users\Anabell\Documents\Arvyx\aeris.anabellchan.com\wwwroot\obj\Debug\Aeris.pdb

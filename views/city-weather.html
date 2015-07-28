@@ -1,0 +1,25 @@
+﻿<h1>{{name}}</h1>
+
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th><strong>High</strong></th>
+                <th><strong>Low</strong></th>
+            </tr>
+        </thead>
+        <tbody ng-repeat="fc in fiveDayFC">
+            <tr>
+
+                <td>{{fc['date']}}</td>
+                <td><img ng-src="{{ fc['weatherIcon']}}" /></td>
+                <td>{{ fc['text'] }}</td>
+                <td>{{ fc['high'] }}</td>
+                <td>{{ fc['low'] }}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

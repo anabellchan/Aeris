@@ -1,0 +1,63 @@
+﻿div.background {
+    background-color: #555DBF;
+
+}
+.main-panel {
+    width: 60%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    background-color: #fff;
+    opacity: 0.9;
+    filter: alpha(opacity=60);
+}
+div.content {
+    width: 90%;
+    margin: 0 auto;
+}
+.navbar-default {
+  background-color: #FFC82F;
+  border-color: #ebac00;
+
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+    letter-spacing: 2px;
+    font-size: 2em;
+}
+
+.btn-group {
+    margin-top: .5em;
+}
+
+.navbar-default .navbar-nav > li > a, 
+.myList {
+    text-transform: lowercase;
+    letter-spacing: .1em;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #007308;
+}
+
+li > button {
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    font-size: smaller;
+}
+
+.date > p {
+    font-weight: 700;
+
+}
+
+.myList {
+    background-color: #00940A;
+    border-color: #007308;
+
+}
+
+.myList:hover,
+.myList:active {
+    background-color: #007308;
+    border-color: #007308;
+}
